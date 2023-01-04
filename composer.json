@@ -2,7 +2,7 @@
   "name": "mybizna/discussion",
   "description": "",
   "type": "asgard-module",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "license": "GPL-3.0-or-later",
   "authors": [
     {
@@ -18,39 +18,6 @@
   "require": {
     "mybizna/core": "^1.0.0",
     "mybizna/partner": "^1.0.0"
-  },
-  "extra": {
-    "laravel": {
-      "providers": [],
-      "aliases": {}
-    }
-  },
-  "autoload": {
-    "psr-4": {
-      "Modules\\Discussion\\": ""
-    }
-  }
-}
-{
-  "name": "mybizna/discussion",
-  "description": "",
-  "type": "asgard-module",
-  "version": "1.1.2",
-  "license": "GPL-3.0-or-later",
-  "authors": [
-    {
-      "name": "Mybizna",
-      "homepage": "https://mybizna.com",
-      "email": "info@mybizna.com"
-    },
-    {
-      "name": "Dedan Irungu",
-      "email": "dedanirungu@gmail.com"
-    }
-  ],
-  "require": {
-    "mybizna/core": "^1.0.1",
-    "mybizna/partner": "^1.0.1"
   },
   "extra": {
     "laravel": {
